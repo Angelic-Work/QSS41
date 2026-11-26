@@ -4,7 +4,7 @@
 
 Final group project for a quantitative social science (QSS) course on the analysis of social networks, Dartmouth College. We analyzed a large Twitch social network to see how language shapes popularity, sponsorship, and connections between communities.
 
-Materials: [`QSS_Final_Paper_Report.pdf`](./QSS_Final_Paper_Report.pdf) and [`QSS_PPT.pdf`](./QSS_PPT.pdf)
+Materials: [`twitch_report_compiled_preview.pdf`](./twitch_report_compiled_preview.pdf) and [`QSS_PPT.pdf`](./QSS_PPT.pdf)
 
 ## Overview
 
@@ -39,7 +39,7 @@ We studied only 4 of about 20 language communities and excluded English. Mutual-
 
 ## Repository Contents
 
-- [`QSS_Final_Paper_Report.pdf`](./QSS_Final_Paper_Report.pdf): final report
+- [`twitch_report_compiled_preview.pdf`](./twitch_report_compiled_preview.pdf): final report
 - [`QSS_PPT.pdf`](./QSS_PPT.pdf): presentation slides
 - [`final_proj_data.ipynb`](./final_proj_data.ipynb): data cleaning, community construction, and exploratory analysis
 - [`proj.ipynb`](./proj.ipynb): network metrics, centrality analysis, and the bridge-removal experiment
